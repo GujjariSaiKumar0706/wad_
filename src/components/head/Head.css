@@ -1,0 +1,7 @@
+.one{
+    background-color: gold;
+}
+.active{
+    color: aliceblue !important;
+    font-size: 1.25rem;
+}
